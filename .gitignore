@@ -18,3 +18,5 @@ venv/
 
 # VS Code settings (optional)
 .vscode/
+primes5m.log
+primes5m_count.json
