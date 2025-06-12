@@ -1,0 +1,5 @@
+2025-06-11 13:25:12,230 - INFO - Starting nuft loop iteration.
+2025-06-11 13:25:12,292 - INFO - [2025-06-11 13:25:12 PDT] Stock Market is CLOSED (Eastern Time: 2025-06-11 16:25:12 EDT)
+2025-06-11 13:25:12,293 - INFO - Skipping API calls because the market is closed.
+2025-06-11 13:25:12,293 - INFO - nuft loop iteration complete. Sleeping for 1200 seconds.
+

@@ -1,0 +1,10 @@
+services:
+  mlb_nuft:
+    build: .
+    volumes:
+      - ./primes5m.log:/app/primes5m.log
+      - ./primes5m_count.json:/app/primes5m_count.json
+      - ./stock_api_call_count.json:/app/stock_api_call_count.json
+      - ./MLB.log:/app/MLB.log
+      - ./config.ini:/app/config.ini
+    restart: unless-stopped
